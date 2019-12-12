@@ -1,6 +1,3 @@
-# Me2029
-me2019
-
 Baltimore Ravens, BAL
 OL,Bradley Bozeman,24,2018,64,60,82,80,74,72,0.6,4
 OL,Hroniss Grasu,27,2015,64,74,83,78,72,69,0.8,1
@@ -1971,11 +1968,3 @@ WR,J.J. Nelson,26,2015,77,74,88,84,96,80,0.6,4
 WR,Trent Sherfield,22,2018,64,49,41,90,87,54,0.6,3
 WR,Chad Williams,24,2017,69,55,89,84,90,73,0.8,4
 END_PLAYERS
-
-
-
-
-
-
-
-
