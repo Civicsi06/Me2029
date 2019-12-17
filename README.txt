@@ -50,7 +50,6 @@ LB,Eli Shardner,22,2019,72,90,88,86,81,80,1.0,5
 LB,Walton Kenison,22,2019,88,80,71,90,83,73,1.0,5
 LB,Kip Harrelson,22,2019,93,84,86,70,79,94,1.0,5
 END_PLAYERS
-
 Cleveland Browns, CLE
 OL,J.C. Tretter,27,2013,77,78,88,89,74,81,5.6,3
 S,Briean Boddy-Calhoun,25,2016,80,80,88,83,90,65,0.5,3
