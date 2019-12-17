@@ -65,6 +65,7 @@ WR,Paris Paisley,22,2019,89,73,79,71,63,1.0,5
 WR,Anthony Goddard,22,2019,81,71,70,69,61,1,0,5
 OL,Kurt Ramires,22,2019,81,82,75,70,89,1.0,5
 OL,Markus Simmerman,22,2019,66,76,90,86,67,1.0,5
+OL,Virgilio Sheaffer,22,2019,60,89,75,81,65,1.0,5
 OL,Alfredo Eberhart,22,2019,72,83,85,65,62,1.0,5
 OL,Toney Dillingham,22,2019,66,70,88,69,63,1.0,5
 OL,Andy Klink,22,2019,81,87 65,86,80,1.0,5
@@ -121,6 +122,7 @@ OL,Leo Faas,22,2019,83,70,81,77,90,1.0,5
 OL,Marquis Triolo,22,2019,73,81,60,74,67,1.0,5
 OL,Major Auclair,22,2019,60,78,80,79,83,1.0,5
 OL,Chang Linen,22,2019,72,78,85,77,63,1.0,5
+OL,Virgilio Sheaffer,22,2019,60,89,75,81,65,1.0,5
 OL,Kyle Wurster,22,2019,82,78,87,61,79,1.0,5
 OL,Errol Kramer,22,2019,80,67,72,77,78,1.0,5
 OL,Anibal Cruze,22,2019,86,80,72,61,78,1.0,5
@@ -172,6 +174,7 @@ OL,Buster Litle,22,2019,74,88,68,90,89,1.0,5
 OL,Alton Klahn,22,2019,83,73,68,88,81,1.0,5
 OL,Anibal Stinchcomb,22,2019,87,82,66,86,73,1.0,5
 OL,Thomas Rushing,22,2019,73,69,67,63,70,1.0,5
+OL,Virgilio Sheaffer,22,2019,60,89,75,81,65,1.0,5
 OL,Devin Costantino,22,2019,66,90,76,65,89,1.0,5
 OL,Arlie Woodham,22,2019,90,78,70,71,62,1.0,5
 OL,Deandre Rosso,22,2019,64,63,83,73,75,1.0,5
@@ -223,6 +226,7 @@ OL,Jefferson Suda,22,2019,71,75,89,72,74,1.0,5
 OL,Robt Subia,22,2019,66,71,67,68,85,1.0,5
 OL,Taylor Mask,22,2019,76,90,71,85,67,1.0,5
 OL,Denny Norville,22,2019,62,85,67,84,76,1.0,5
+OL,Virgilio Sheaffer,22,2019,60,89,75,81,65,1.0,5
 OL,Milton Toohey,22,2019,80,62,89,76,66,1.0,5
 OL,Branden Hoots,22,2019,65,82,76,85,81,1.0,5
 OL,Tanner Demark,22,2019,64,85,87,72,77,1.0,5
